@@ -1,2 +1,0 @@
-# ddongdog
-Final Project
